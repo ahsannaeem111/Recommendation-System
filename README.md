@@ -23,5 +23,3 @@ This is my *capstone project* of the *"Java Programming and Software Engineering
 
 ![Recommended movie list for user](/img/Recommendadtion.png)
 
-
-## [Completion Certificate](https://www.coursera.org/account/accomplishments/certificate/EM3NHLPD6CPE)
